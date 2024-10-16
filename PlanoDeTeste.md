@@ -1,4 +1,5 @@
 # Plano de Testes da Situação de Aprendizagem - 4º Semestre
+Samuel Alves
 Levi Samuel
 
 ## 1. Identificador do Plano de Teste
